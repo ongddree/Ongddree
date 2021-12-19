@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## 👾 &nbsp; Github Stats
+<!-- ## 👾 &nbsp; Github Stats
 <table><tr><td valign="top" width="100%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ongddree&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ongddree&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> -->
 
 
 
