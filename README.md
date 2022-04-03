@@ -1,46 +1,34 @@
-<!--
-**ongddree/Ongddree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
+<h2>안녕하세요 프론트엔드 개발자 박서영입니다</h2>
 
-## 🔭 &nbsp; I’m currently learning ...
-<div align="left">  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
-  <img style="margin: 20px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg" alt="Next.js" height="40" />
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
-<!--   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="30" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />   -->
-</div>  
+### Contact
 
-<br/>  
+📩 이메일 | <a href="mailto:ongddree@gmail.com">ongddree@gmail.com</a> <br/>
+📗 블로그 | <a href="https://velog.io/@ongddree">https://velog.io/@ongddree</a>
 
+### Skills
 
-<!-- ## 👾 &nbsp; Github Stats
-<table><tr><td valign="top" width="100%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ongddree&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> -->
+- HTML
+- CSS
+- Javscript
+- React
+- NextJS
+- Typescript
+- Styled-components, EmotionJS
+- Strapi, Axios, Postman
 
 
+### Cooperation
+
+- Git, GitHub, Source Tree
+- Slack, Jira, Trello
+- Figma
 
 
-</td></tr></table>  
+### Blog
 
-## 🛰 &nbsp; Contact
- <a href="mailto:ongddree@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+- <a href="https://velog.io/@ongddree/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EA%B5%AC%ED%98%84">다크모드 기능 (Typescript)</a>
+- <a href="https://velog.io/@ongddree/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%B5%9C%EA%B7%BC-%EC%9D%BD%EC%9D%80-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84">최근 읽은 포스트 기능 (Typescript)</a>
+- <a href="https://velog.io/@ongddree/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%B5%9C%EA%B7%BC-%EC%9D%BD%EC%9D%80-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84">기간별 좋아요순 데이터 필터링 기능 (Typescript)</a>
+
