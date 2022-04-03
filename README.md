@@ -13,7 +13,7 @@
 - CSS
 - Javscript
 - React
-- NextJS
+- Next.js
 - Typescript
 - Styled-components, EmotionJS
 - Strapi, Axios, Postman
