@@ -11,11 +11,11 @@
 
 - HTML
 - CSS
-- Javscript
+- Javascript
 - React
 - Next.js
 - Typescript
-- Styled-components, EmotionJS
+- Styled-components, Emotion
 - Strapi, Axios, Postman
 
 
