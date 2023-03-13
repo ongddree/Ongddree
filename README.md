@@ -1,7 +1,4 @@
 
-
-<h2>안녕하세요 프론트엔드 개발자 박서영입니다</h2>
-
 ### Contact
 
 📩 이메일 | <a href="mailto:ongddree@gmail.com">ongddree@gmail.com</a> <br/>
