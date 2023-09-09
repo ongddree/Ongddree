@@ -7,6 +7,7 @@
 
 ### Blog
 
+- <a href="https://medium.com/@ongddree/tcp%EC%99%80-udp-ae8bde89f478" target="_blank">TCP와 UDP</a>
 - <a href="https://boostbrothers.github.io/hospital-detail-webview" target="_blank">웹뷰 통신 및 크로스 브라우징</a>
 - <a href="https://velog.io/@ongddree/TIL-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC" target="_blank">모노레포 (Lerna, yarn workspace)</a>
 
